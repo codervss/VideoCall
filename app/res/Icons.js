@@ -1,0 +1,1 @@
+exports.dfault sendIcon={require('@expo/snack-static/react-nativ}
